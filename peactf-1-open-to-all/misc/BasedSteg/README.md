@@ -5,6 +5,7 @@
 _files: UNKNOWN2.png_
 
 First, let's check the image with Stegsolve:
+
 ![Stegsolve](stegsolve.png)
 
 We can see a base64-encoded string so let's decode it. 

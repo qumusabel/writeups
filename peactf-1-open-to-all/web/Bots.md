@@ -2,6 +2,7 @@
 > What does a machine see?
 
 ![First page](img/Bots-1.png)
+
 Another web trivia challenge. What do robots look for?
 Well, '/robots.txt':
 ```
@@ -24,4 +25,5 @@ This redirects us to `/sitemap.xml`:
 ```
 
 And finally, `/AZJ2sLVxnqM0RqLDWKeeUykaaUDsxElN.html`:
+
 ![Flag](img/Bots-2.png)
