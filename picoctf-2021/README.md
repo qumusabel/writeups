@@ -13,7 +13,7 @@
 |  Get aHEAD                              | `picoCTF{r3j3ct_th3_du4l1ty_6ef27873}`                   |
 | [Stonks](#stonks)                       | `picoCTF{I_l05t_4ll_my_m0n3y_bdc425ea}`                  |
 | [Binary gauntlet 1](#binary-gauntlet-1) | `7504344981b9288c5669150ada84894e`                       |
-|  Binary Gauntlet 2                      | `230fc5c335f1fe302abdc387d498fe40`                       |
+| [Binary Gauntlet 2](#binary-gauntlet-2) | `230fc5c335f1fe302abdc387d498fe40`                       |
 | [What's your input?](#whats-your-input) | `picoCTF{v4lua4bl3_1npu7_7607377}`                       |
 |  Weird File                             | `picoCTF{m4cr0s_r_d4ng3r0us}`                            |
 | [Matryoshka Doll](#matryoshka-doll)     | `picoCTF{e3f378fe6c1ea7f6bc5ac2c3d6801c1f}`              |
