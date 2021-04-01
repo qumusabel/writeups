@@ -64,10 +64,10 @@ The operands to the commands can be of three types:
 
 Now that we know how the VM operates, let's write a disassembler for it.
 
-Full code: [disassembler.py](disassemler.py)
+Full code: [disassembler.py](disassembler.py)
 
 Then disassemble the provided bytecode:
-[bytecode](bytecode)    
+[disasstmbled](bytecode)    
 ```
 0x0000  mov16 REG 1, 4352 (0x1100)
 0x0004  mov16 REG 0, 4096 (0x1000)
