@@ -5,7 +5,6 @@
 | ---                                     | ---                                                      |
 | [Obedient cat](#obedient-cat)           | `picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}`                      |
 | [Mod 26](#mod-26)                       | `picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}` |
-| [Ancient History](#ancient-history)     | `picoCTF{hsk1n34t_b60d5}`                                |
 | [Python Wrangling](#python-wrangling)   | `picoCTF{4p0110_1n_7h3_h0us3_aa821c16}`                  |
 | [Binary Gauntlet 0](#binary-gauntlet-0) | `fbd01d62c0e369e6de3d63b4b21d3830`                       |
 | [Wave a flag](#wave-a-flag)             | `picoCTF{b1scu1ts_4nd_gr4vy_755f3544}`                   |
@@ -33,15 +32,6 @@ just cat the file
 rot 13 in cyberchef
 
 `picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}`
-
-## Ancient History
-![Image](img/ancient-history.png)
-
-When you go to the webpage, a script appends these to your browser's history. I
-copied the entries, then removed everything except the last letter using vim
-macro. Then joined the lines and reversed the string.
-
-`picoCTF{hsk1n34t_b60d5}`
 
 ## Python Wrangling
 Just run the scipt
